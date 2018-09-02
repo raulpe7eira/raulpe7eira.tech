@@ -1,0 +1,47 @@
+# Site settings
+title: raulpe7eira
+description: 'Full-Stack Developer of Jaya. SMC, usability expert, cycling enthusiast, family lover.'
+headline: 'Full-Stack Developer of <a href="https://jaya.tech/" title="link to Jaya website">Jaya</a>. <a href="https://www.scrumalliance.org/community/profile/rsilva10" title="link to Scrum Master Certified profile">SMC</a>, usability expert, cycling enthusiast, family lover.'
+url: 'http://raulpe7eira.tech'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'raulpe7eira'
+  email: raul.pereira@gmail.com
+  # google_plus_username: RaulPereiraSilva
+  # twitter_username: raulpe7eira
+  # facebook_username: raulpe7eira
+  instagram_username: raulpe7eira
+  strava_username: raulpe7eira
+  github_username:  raulpe7eira
+  linkedin_username:  raulpe7eira
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

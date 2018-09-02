@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raulpe7eira</title>
+    <description>Full-Stack Developer of Jaya. SMC, usability expert, cycling enthusiast, family lover.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 02 Sep 2018 03:27:05 -0300</pubDate>
+    <lastBuildDate>Sun, 02 Sep 2018 03:27:05 -0300</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Hi! ;)</title>
+        <description>&lt;p&gt;I’m full-stack software developer with +18 years of professional experience, currently I integrate &lt;a href=&quot;https://jaya.tech/&quot; title=&quot;link to Jaya website&quot;&gt;the passionate team of Jaya&lt;/a&gt;, focused on the Java, Kotlin, Elixir and JavaScript ecosystems.&lt;/p&gt;
+
+&lt;p&gt;All my professional experience is based on my graduation in 2001 at the extinct UniverCidade and postgraduate courses of &lt;em&gt;“Analysis, Design and Management Systems”&lt;/em&gt; and &lt;em&gt;“Ergonomics, Usability and HCI: Ergodesign and Interfaces Assessment”&lt;/em&gt; at &lt;a href=&quot;http://www.puc-rio.br&quot; title=&quot;lint to PUC-Rio website&quot;&gt;Puc-Rio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the best parts of my profession is that you are continually specializing and seeking ways to improve and break challenges in various areas of human knowledge.&lt;/p&gt;
+
+&lt;p&gt;When I’m not working, you can find me taking care of my family, &lt;a href=&quot;https://www.strava.com/athletes/raulpe7eira&quot; title=&quot;link to Strava profile&quot;&gt;cycling&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/user/ur28106453&quot; title=&quot;link to IMDb profile&quot;&gt;watching a movie&lt;/a&gt;, &lt;a href=&quot;https://www.last.fm/user/raulpereira&quot; title=&quot;link to last.fm profile&quot;&gt;listening to rock&lt;/a&gt; or podcast, reading a comic book or a book, be it technology or just a children’s book for my babies.&lt;/p&gt;
+
+&lt;p&gt;I also &lt;a href=&quot;https://github.com/raulpe7eira&quot; title=&quot;link to GitHub profile&quot;&gt;push code&lt;/a&gt; quite often, and &lt;a href=&quot;https://instagram.com/raulpe7eira&quot; title=&quot;link to Instagram profile&quot;&gt;show off pictures&lt;/a&gt; from time to time.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Sep 2018 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2018/summary/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/summary/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
