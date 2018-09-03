@@ -1,4 +1,4 @@
-# raulpe7eira.github.io
+# raulpe7eira.tech
 
 This projects holds the contents for my personal website, hosted at <https://raulpe7eira.tech>.
 
