@@ -943,7 +943,8 @@ a {
 		-o-transition: .5s;
 		-ms-transition: .5s;
 		-moz-transition: .5s;
-		-webkit-transition: .5s; }
+		-webkit-transition: .5s;
+		text-decoration: underline; }
 
 h1,
 h2,
@@ -1318,7 +1319,8 @@ hr {
 	-webkit-font-smoothing: antialiased; }
 	.btn:hover, .navigation__item a:hover {
 		color: #b9301c;
-		border-color: #b9301c; }
+		border-color: #b9301c;
+		text-decoration: none; }
 
 .btn-secondary {
 	border-color: #5ba4e5;
