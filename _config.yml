@@ -41,7 +41,7 @@ highlighter: rouge
 languages: ['en', 'pt_BR']
 default_lang: 'en'
 exclude_from_localization: ['css', 'fonts', 'images', 'js']
-parallel_localization: false
+parallel_localization: true
 data_dir: ./_data
 
 sass:
