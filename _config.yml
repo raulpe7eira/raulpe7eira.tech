@@ -55,4 +55,4 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-polyglot', 'jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'index_OLD.html']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'index_sample.html']
