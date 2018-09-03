@@ -42,8 +42,17 @@ languages: ['en', 'pt_BR']
 default_lang: 'en'
 exclude_from_localization: ['css', 'fonts', 'images', 'js']
 parallel_localization: true
-data_dir: ./_data
-pt_BR_lang: 'pt_BR'
+data_dir: /_data
+languages_display:
+  en:
+    label: 'English'
+    title: 'Translate to English'
+  pt_BR:
+    label: 'Português (BR)'
+    title: 'Traduzir para Português (BR)'
+dates_format:
+  en: '%m/%d/%Y'
+  pt_BR: '%d/%m/%Y'
 
 sass:
     sass_dir: _sass

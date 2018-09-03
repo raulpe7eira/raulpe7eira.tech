@@ -1,5 +1,4 @@
 {% assign lang = site.active_lang %}
-
 <span class="mobile btn-mobile-menu">
   <i class="icon icon-list btn-mobile-menu__icon"></i>
   <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
@@ -104,7 +103,7 @@
             {% if site.author.email %}
               <!-- Email -->
               <li class="navigation__item">
-                <a href="mailto:{{ site.author.email }}" title="Email {{ site.data.header.for }} {{ site.author.email }}" target="_blank">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
                   <i class="icon icon-mail"></i>
                   <span class="label">Email</span>
                 </a>
@@ -127,7 +126,7 @@
             <ul class="navigation">
             {% for tongue in site.languages %}
               <li class="navigation__item">
-                <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}" title="{{ site.data.header.translate_to }} {{ tongue }}">{{ tongue }}</a>{% if forloop.last == false %} |{% endif %}
+                <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}" title="{{ site.languages_display[tongue].title }}">{{ site.languages_display[tongue].label }}</a>{% if forloop.last == false %} |{% endif %}
               </li>
             {% endfor %}
           </nav>

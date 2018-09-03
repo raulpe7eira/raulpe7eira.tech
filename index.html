@@ -3,11 +3,7 @@ layout: default
 title: //raulpe7eira.tech
 ---
 
-{% assign date_format = '%m/%d/%Y'  %}
-{% if site.active_lang == site.pt_BR_lang %}
-{% assign date_format = '%d/%m/%Y' %}
-{% endif %}
-
+{% assign lang = site.active_lang %}
 {% for post in paginator.posts limit:1 %}
   <article class="post-container post-container--single">
     <header class="post-header">
@@ -18,7 +14,7 @@ title: //raulpe7eira.tech
     </section>
     <footer class="post-footer">
       <div class="post-meta">
-        <time datetime="{{ post.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ site.data.index.update-label }} {{ post.date | date: date_format }}</time>
+        <time datetime="{{ post.date | date: "%Y-%m-%d %H:%M" }}" class="post-meta__date date">{{ site.data.index.update-label }} {{ post.date | date: site.dates_format[lang] }}</time>
       </div>
     </footer>
   </article>
