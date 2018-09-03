@@ -55,5 +55,7 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-plugins: ['jekyll-polyglot', 'jekyll-paginate']
+plugins:
+  - jekyll-polyglot
+  - jekyll-paginate
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'index_sample.html']
