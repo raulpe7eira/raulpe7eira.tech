@@ -43,6 +43,7 @@ default_lang: 'en'
 exclude_from_localization: ['css', 'fonts', 'images', 'js']
 parallel_localization: true
 data_dir: ./_data
+pt_BR_lang: 'pt_BR'
 
 sass:
     sass_dir: _sass
