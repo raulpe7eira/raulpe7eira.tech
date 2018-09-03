@@ -1,0 +1,33 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raulpe7eira</title>
+    <description>Desenvolvedor Full-Stack Developer da Jaya. CSM, especialista em usabilidade, ciclista entusiasta, que ama a família.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/pt_BR/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 03 Sep 2018 18:19:43 -0300</pubDate>
+    <lastBuildDate>Mon, 03 Sep 2018 18:19:43 -0300</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Olá!</title>
+        <description>&lt;p&gt;Eu sou desenvolvedor de software full-stack com +de 18 anos de experiência profissional, atualmente integro &lt;a href=&quot;https://jaya.tech/&quot; title=&quot;lint para o site da Jaya&quot; target=&quot;_blank&quot;&gt;o time apaixonado da Jaya&lt;/a&gt;, focado nos ecosistemas Java, Kotlin, Elixir e/ou JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Toda minha experiência profissional teve base na minha gradução em 2001, feita na extinta UniverCidade e nas posgraduações em &lt;em&gt;“Análise, Projeto e Gestão de Sistemas”&lt;/em&gt; e &lt;em&gt;“Ergonomia, Usabilidade e HCI: Ergodesign e Avaliação de Interfaces”&lt;/em&gt; cursadas na &lt;a href=&quot;http://www.puc-rio.br&quot; title=&quot;lint para o site da PUC-Rio&quot; target=&quot;_blank&quot;&gt;PUC-Rio&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Uma das melhores partes de minha profissão é estar continuamente me especializando e aprofundando para quebrar desafios em várias áreas do conhecimento humano, isso significa que sempre estou em um processo de reconstrução.&lt;/p&gt;
+
+&lt;p&gt;Quando não estou trabalhando, estou cuidando da minha família, &lt;a href=&quot;https://www.strava.com/athletes/raulpe7eira&quot; title=&quot;link para meu Strava&quot; target=&quot;_blank&quot;&gt;pedalando&lt;/a&gt;, &lt;a href=&quot;https://www.imdb.com/user/ur28106453&quot; title=&quot;link para meu IMDb&quot; target=&quot;_blank&quot;&gt;assistindo um filme&lt;/a&gt;, &lt;a href=&quot;https://www.last.fm/user/raulpereira&quot; title=&quot;link para meu last.fm&quot; target=&quot;_blank&quot;&gt;escutando rock&lt;/a&gt; ou podcast, lendo um HQ ou livro, seja de tecnologia ou apenas um infantil para meus pequenos.&lt;/p&gt;
+
+&lt;p&gt;Eu também &lt;a href=&quot;https://github.com/raulpe7eira&quot; title=&quot;link para meu GitHub&quot; target=&quot;_blank&quot;&gt;subo códigos&lt;/a&gt; com bastante frequência, e &lt;a href=&quot;https://instagram.com/raulpe7eira&quot; title=&quot;link para meu Instagram&quot; target=&quot;_blank&quot;&gt;publico fotos&lt;/a&gt; de tempos em tempos.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Sep 2018 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2018/summary/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/summary/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

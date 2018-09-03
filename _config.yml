@@ -33,7 +33,7 @@ defaults:
         layout: 'post'
 
 # Build settings
-destination: doc
+destination: docs
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
