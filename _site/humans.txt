@@ -1,0 +1,15 @@
+/* DEVELOPER BY */
+Developer: Raul Pereira
+Twitter: @raulpe7eira
+Site: https://raulpe7eira.tech
+Location: Rio de Janeiro, RJ, BRA
+
+/* DESIGNER BASED */
+Designer: Josh Gerdes
+Theme: jekyll-uno
+
+/* SITE */
+Last update: 2018/09/03
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: VS Code
