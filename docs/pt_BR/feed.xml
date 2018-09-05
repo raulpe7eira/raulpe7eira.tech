@@ -4,10 +4,10 @@
   <channel>
     <title>raulpe7eira</title>
     <description>Desenvolvedor Full-Stack Developer da Jaya. CSM, especialista em usabilidade, ciclista entusiasta, que ama a família.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/pt_BR/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 03 Sep 2018 19:29:20 -0300</pubDate>
-    <lastBuildDate>Mon, 03 Sep 2018 19:29:20 -0300</lastBuildDate>
+    <link>https://raulpe7eira.tech/</link>
+    <atom:link href="https://raulpe7eira.tech/pt_BR/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 05 Sep 2018 10:49:03 -0300</pubDate>
+    <lastBuildDate>Wed, 05 Sep 2018 10:49:03 -0300</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -23,8 +23,8 @@
 &lt;p&gt;Eu também &lt;a href=&quot;https://github.com/raulpe7eira&quot; title=&quot;link para meu GitHub&quot; target=&quot;_blank&quot;&gt;subo códigos&lt;/a&gt; com bastante frequência, e &lt;a href=&quot;https://instagram.com/raulpe7eira&quot; title=&quot;link para meu Instagram&quot; target=&quot;_blank&quot;&gt;publico fotos&lt;/a&gt; de tempos em tempos.&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Sep 2018 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2018/summary/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/summary/</guid>
+        <link>https://raulpe7eira.tech/2018/summary/</link>
+        <guid isPermaLink="true">https://raulpe7eira.tech/2018/summary/</guid>
         
         
       </item>
