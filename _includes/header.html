@@ -30,16 +30,6 @@
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
 
-            {% if site.author.google_plus_username %}
-              <!-- Google+ -->
-              <li class="navigation__item">
-                <a href="https://plus.google.com/+{{ site.author.google_plus_username }}" title="@{{ site.author.google_plus_username }} {{ site.data.header.into }} Google+" target="_blank">
-                  <i class="icon icon-social-google-plus"></i>
-                  <span class="label">Google+</span>
-                </a>
-              </li>
-            {% endif %}
-
             {% if site.author.twitter_username %}
               <!-- Twitter -->
               <li class="navigation__item">
@@ -129,6 +119,7 @@
                 <a {% if tongue == site.active_lang %}style="font-weight: bold;"{% endif %} href="{% if tongue == site.default_lang %} {{site.baseurl}}{{page.url}} {% else %} {{site.baseurl}}/{{ tongue }}{{page.url}} {% endif %}" title="{{ site.languages_display[tongue].title }}">{{ site.languages_display[tongue].label }}</a>{% if forloop.last == false %} |{% endif %}
               </li>
             {% endfor %}
+            </ul>
           </nav>
       </div>
 

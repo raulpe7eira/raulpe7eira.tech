@@ -314,17 +314,6 @@
   font-weight: 400;
 }
 
-.#{$fa-css-prefix}.#{$fa-css-prefix}-google-plus-square {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400;
-}
-
-.#{$fa-css-prefix}.#{$fa-css-prefix}-google-plus {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400;
-}
-.#{$fa-css-prefix}.#{$fa-css-prefix}-google-plus:before { content: fa-content($fa-var-google-plus-g); }
-
 .#{$fa-css-prefix}.#{$fa-css-prefix}-money {
   font-family: 'Font Awesome 5 Free';
   font-weight: 400;
@@ -1864,19 +1853,7 @@
 .#{$fa-css-prefix}.#{$fa-css-prefix}-themeisle {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
-}
-
-.#{$fa-css-prefix}.#{$fa-css-prefix}-google-plus-official {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400;
-}
-.#{$fa-css-prefix}.#{$fa-css-prefix}-google-plus-official:before { content: fa-content($fa-var-google-plus); }
-
-.#{$fa-css-prefix}.#{$fa-css-prefix}-google-plus-circle {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400;
-}
-.#{$fa-css-prefix}.#{$fa-css-prefix}-google-plus-circle:before { content: fa-content($fa-var-google-plus); }
+}s
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-font-awesome {
   font-family: 'Font Awesome 5 Brands';
