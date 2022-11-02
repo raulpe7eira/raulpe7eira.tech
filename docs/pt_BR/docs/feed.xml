@@ -3,10 +3,10 @@
   <channel>
     <title>raulpe7eira</title>
     <description>Backend engineer of Coverflex. Ex-tech coordinator from Jaya, passionate coder, usability expert, cycling enthusiast, who loves being with the family.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 02 Nov 2022 18:57:53 -0300</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2022 18:57:53 -0300</lastBuildDate>
+    <link>https://raulpe7eira.tech/</link>
+    <atom:link href="https://raulpe7eira.tech/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 02 Nov 2022 19:49:16 -0300</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2022 19:49:16 -0300</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;I also &lt;a href=&quot;https://github.com/raulpe7eira&quot; title=&quot;link to GitHub profile&quot; target=&quot;_blank&quot;&gt;push code&lt;/a&gt; quite often, and &lt;a href=&quot;https://instagram.com/raulpe7eira&quot; title=&quot;link to Instagram profile&quot; target=&quot;_blank&quot;&gt;show off pictures&lt;/a&gt; from time to time.&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Nov 2022 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2022/summary/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/summary/</guid>
+        <link>https://raulpe7eira.tech/2022/summary/</link>
+        <guid isPermaLink="true">https://raulpe7eira.tech/2022/summary/</guid>
         
         
       </item>
