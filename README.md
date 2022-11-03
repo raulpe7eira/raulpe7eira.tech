@@ -1,6 +1,6 @@
 # raulpe7eira.tech
 
-![raulpe7eira tech_](https://user-images.githubusercontent.com/456260/199613357-a1284cc0-e1fb-483d-a42d-247c88e5748a.png)
+![raulpe7eira tech_](https://user-images.githubusercontent.com/456260/199842332-692da7e5-cb13-421c-97c5-928c62f8dcc2.png)
 
 This projects holds the contents for my personal website, hosted at <https://raulpe7eira.tech>.
 
