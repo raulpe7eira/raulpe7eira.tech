@@ -1,11 +1,11 @@
 # Site settings
 title: raulpe7eira
 description:
-  en: 'Backend engineer of Coverflex. Ex-tech coordinator from Jaya, passionate coder, usability expert, cycling enthusiast, who loves being with the family.'
-  pt_BR: 'Engenheiro Backend da Coverflex. Ex-coordenador técnico da Jaya, programador apaixonado, especialista em usabilidade, ciclista entusiasta, que ama estar com a família.'
+  en: 'Passionate coder, and cycling enthusiast, who loves being with the family'
+  pt_BR: 'Programador apaixonado, e ciclista entusiasta, que ama estar com a família'
 headline:
-  en: 'Backend Engineer of <a href="https://coverflex.com" title="link to Coverflex website">Coverflex</a>. Ex-tech coordinator from <a href="https://jaya.tech" title="link to Jaya website">Jaya</a>, passionate coder, usability expert, cycling enthusiast, who loves being with the family.'
-  pt_BR: 'Engenheiro Backend da <a href="https://coverflex.com" title="link para o site da Coverflex">Coverflex</a>. Ex-coordenador técnico da <a href="https://jaya.tech" title="link para o site da Jaya">Jaya</a>, programador apaixonado, especialista em usabilidade, ciclista entusiasta, que ama estar com a família.'
+  en: 'Passionate coder, and cycling enthusiast, who loves being with the family'
+  pt_BR: 'Programador apaixonado, e ciclista entusiasta, que ama estar com a família'
 url: 'https://raulpe7eira.tech'
 baseurl: ''
 google_analytics: 'UA-125091270-1'
