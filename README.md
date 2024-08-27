@@ -1,8 +1,8 @@
 # raulpe7eira.tech
 
-![raulpe7eira tech_](https://user-images.githubusercontent.com/456260/199842332-692da7e5-cb13-421c-97c5-928c62f8dcc2.png)
+![raulpe7eira tech](https://github.com/user-attachments/assets/6f17cbb2-2ffb-4caa-b929-e988dd3d81f3)
 
-This projects holds the contents for my personal website, hosted at <https://raulpe7eira.tech>.
+This project holds the contents for my personal website, hosted at <https://raulpe7eira.tech>.
 
 It's automatically transformed by [Jekyll](https://jekyllrb.com/ "link to Jekyll website") into a static site, and uses the [jekyll-polyglot](https://polyglot.untra.io/ "link to polyglot website") for the i18n support.
 
