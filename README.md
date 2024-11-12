@@ -14,6 +14,9 @@ The theme build was based on the [jekyll-uno](https://github.com/joshgerdes/jeky
 bundle install
 bundle exec jekyll serve --livereload
 
+# to upgrade
+bundle update
+
 # to deploy
 JEKYLL_ENV=production bundle exec jekyll build
 ```
