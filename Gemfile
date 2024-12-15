@@ -3,3 +3,5 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-polyglot', group: :jekyll_plugins
 gem "webrick", "~> 1.8"
 gem "jekyll", "~> 3.9"
+gem 'faraday', '~> 2.12'
+gem 'faraday-retry', "~> 2.2"

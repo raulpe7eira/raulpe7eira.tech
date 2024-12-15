@@ -9,7 +9,7 @@ Designer: Josh Gerdes
 Theme: jekyll-uno
 
 /* SITE */
-Last update: 2024/08/27
+Last update: 2024/12/15
 Standards: HTML5, CSS3
 Components: Jekyll
 Software: VS Code
